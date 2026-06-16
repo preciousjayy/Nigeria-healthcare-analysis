@@ -43,12 +43,26 @@ Nigeria faces significant challenges in healthcare access, with wide disparities
 
 ## Key Findings
 
-*This section will be updated as the analysis progresses.*
+- **Lagos** leads with the highest number of health facilities (2,320), 
+followed by Katsina (2,228) and Benue (2,192)
 
-- TBC: State with highest concentration of health facilities
-- TBC: States with critical gaps relative to population
-- TBC: Distribution across geopolitical zones
+- **Bayelsa** has the fewest health facilities (400), followed by 
+FCT Abuja (578) and Yobe (600) — surprising given Bayelsa and Rivers 
+are oil producing states
 
+- **72% of facilities are functional** but 25% have an unknown status, 
+revealing a significant data gap in Nigeria's healthcare record keeping
+
+- **Primary Health Centers dominate** at 27,057 out of 46,146 total 
+facilities, showing Nigeria's healthcare system is heavily dependent 
+on primary care
+
+- **Specialist Hospitals and Teaching Hospitals are critically low** 
+at 669 and 51 respectively, indicating a major gap in advanced 
+healthcare across the country
+
+- **Significant inequality exists** between states — Lagos has nearly 
+6 times more facilities than Bayelsa
 ---
 
 ## About the Author
