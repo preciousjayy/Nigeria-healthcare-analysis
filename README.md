@@ -23,6 +23,12 @@ Nigeria faces significant challenges in healthcare access, with wide disparities
 - **Key variables:** Facility type, ownership, state, geopolitical zone, population estimates
 
 ---
+## Project Structure
+
+- **visuals/** — Contains all chart images and visualisations
+- **README.md** — Project documentation and key findings
+
+---
 
 ## Tools Used
 
