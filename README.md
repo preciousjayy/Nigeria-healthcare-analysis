@@ -84,4 +84,5 @@ The full Power BI file (`Nigeria Health Facilities.pbix`) is available in this r
 
 ## Status
 
-Project in progress — analysis and visualisations being actively developed.
+Project complete. End-to-end analysis covering data cleaning, exploratory analysis, visualisation, and an interactive Power BI dashboard.
+
