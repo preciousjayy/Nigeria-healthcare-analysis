@@ -36,8 +36,9 @@ Nigeria faces significant challenges in healthcare access, with wide disparities
 |------|---------|
 | Python (pandas) | Data cleaning and exploratory data analysis |
 | Python (matplotlib / seaborn) | Data visualisation and charts |
-| Excel | Summary tables and supporting analysis |
+| Power BI | Interactive dashboard and data storytelling |
 | Jupyter Notebook | Interactive analysis and documentation |
+| Google Colab | Cloud-based environment for running Python code |
 
 ---
 
