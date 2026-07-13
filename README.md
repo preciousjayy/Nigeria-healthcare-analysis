@@ -65,6 +65,14 @@ healthcare across the country
 6 times more facilities than Bayelsa
 ---
 
+## Dashboard
+
+An interactive Power BI dashboard was built to visualise the findings from this analysis, allowing users to filter by state and explore healthcare facility distribution across Nigeria.
+
+![Dashboard Preview](Screenshot%202026-07-09%20120117.png)
+
+The full Power BI file (`Nigeria Health Facilities.pbix`) is available in this repository for anyone with Power BI installed to explore further.
+
 ## About the Author
 
 **Precious** — Materials Science and Engineering graduate with a strong interest in healthcare technology and data-driven approaches to addressing health infrastructure gaps in Nigeria. Currently building expertise in data analytics through the IBM Data Analyst Professional Certificate.
